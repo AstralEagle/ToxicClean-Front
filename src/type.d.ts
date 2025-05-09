@@ -1,0 +1,1 @@
+type ListData = { id: number, message: string, score: number }
